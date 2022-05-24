@@ -4,10 +4,13 @@ span{
 
 
 .row{
-    padding: 0 200px;
-    display:;
+   padding: 0 200px;
     width: 100%;
-   
+    position: left;
+    width: px;
+    height: 600ch;
+    top: 50%;
+    left: 35%;
 } 
 form{
     width: 60%;
